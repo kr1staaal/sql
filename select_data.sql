@@ -1,0 +1,1 @@
+select * from lab where birh_date > '2003-01-01' and birh_date < '2008-01-01' ;
